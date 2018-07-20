@@ -32,7 +32,7 @@ La description détaillée de cet atelier se trouve à cette adresse :
 Pour toute question ou information complémentaire, contactez nous à  [ihm2018creativite@gmail.com](mailto:ihm2018creativite@gmail.com)
 
 
-Bien Cordialement,
+**Organisateurs:**
 
 Baptiste Caramiaux, CNRS, LRI Université Paris-Sud et Paris-Saclay, Inria Ex)situ  
 Sarah Fdili Alaoui, LRI Université Paris-Sud et Paris-Saclay, CNRS, Inria Ex)situ  
